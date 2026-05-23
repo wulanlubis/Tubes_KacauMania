@@ -1,6 +1,6 @@
 # Tubes_KacauMania
 > Tugas Besar Strategi Algoritma RD
-> **Pemanfaatan Algoritma Greedy dalam pembuatan bot permainan Robocode Tank Royale**
+> Pemanfaatan Algoritma Greedy dalam pembuatan bot permainan Robocode Tank Royale
 
 ---
 
