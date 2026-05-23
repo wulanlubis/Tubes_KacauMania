@@ -1,10 +1,10 @@
 # Tubes_KacauMania
-> Tugas Besar IF25-21013 Strategi Algoritma — Semester Genap 2026/2027  
+> Tugas Besar Strategi Algoritma RD
 > **Pemanfaatan Algoritma Greedy dalam pembuatan bot permainan Robocode Tank Royale**
 
 ---
 
-## 👥 Author
+## Author
 
 | Nama | NIM |
 |------|-----|
@@ -14,9 +14,9 @@
 
 ---
 
-## 🤖 Deskripsi Bot
+## Deskripsi Bot
 
-### 🏆 Main Bot — Gacor
+### Main Bot — Gacor
 **Strategi: Distance-Based Adaptive Firepower**  
 Memilih daya tembak secara greedy berdasarkan jarak ke musuh:
 - Jarak < 150 piksel → `Fire(3)` — peluru berat, damage maksimal
@@ -25,20 +25,20 @@ Memilih daya tembak secara greedy berdasarkan jarak ke musuh:
 
 Gerakan utama membentuk pola melingkar (maju 50 unit + belok kanan 20°) dengan radar sweep 360° setiap siklus.
 
-### 🔁 Alternative Bot 1 — Syududu
+### Alternative Bot 1 — Syududu
 **Strategi: Energy-Aware Adaptive Strategy**  
 Menyesuaikan strategi secara dinamis berdasarkan kondisi energi:
 - Energi > 50 → Mode Agresif: maju 120 unit, tembak berdasarkan jarak
 - Energi ≤ 50 → Mode Defensif: mundur 80 unit, belok 60°, hindari musuh
 
-### 🔁 Alternative Bot 2 — Kaciw
+### Alternative Bot 2 — Kaciw
 **Strategi: Survival-First Evasion**  
 Memprioritaskan kelangsungan hidup dengan menghindar secara reaktif:
 - Selalu tembak `Fire(1)` untuk hemat energi
 - Saat kena peluru → langsung kabur ke arah acak (TurnRight 90–180° + Forward 120)
 - Gerakan default acak agar lintasan tidak dapat diprediksi musuh
 
-### 🔁 Alternative Bot 3 — Kacau
+### Alternative Bot 3 — Kacau
 **Strategi: Always-Aggressive Maximum Damage**  
 Selalu tembak dengan daya tembak maksimal tanpa mempertimbangkan kondisi apapun:
 - Setiap musuh terdeteksi → `Fire(3)` langsung
@@ -46,7 +46,7 @@ Selalu tembak dengan daya tembak maksimal tanpa mempertimbangkan kondisi apapun:
 
 ---
 
-## ⚙️ Requirement
+## Requirement
 
 - [.NET SDK](https://dotnet.microsoft.com/en-us/download) versi 10.0
 - Game engine Robocode Tank Royale (versi modifikasi asisten — tubes1-if2211-starter-pack)
@@ -54,7 +54,7 @@ Selalu tembak dengan daya tembak maksimal tanpa mempertimbangkan kondisi apapun:
 
 ---
 
-## 🛠️ Cara Build & Menjalankan Bot
+## Cara Build & Menjalankan Bot
 
 ### 1. Clone repository
 ```bash
@@ -92,7 +92,7 @@ dotnet run
 
 ---
 
-## 📁 Struktur Repository
+## Struktur Repository
 
 ```
 Tubes_KacauMania/
@@ -110,7 +110,7 @@ Tubes_KacauMania/
 
 ---
 
-## 🔗 Tautan
+## Tautan
 
 - 📄 [Laporan](doc/KacauMania.pdf)
 - 🎥 Video YouTube: https://youtu.be/dYMyWuAcMOE
