@@ -113,4 +113,4 @@ Tubes_KacauMania/
 ## Tautan
 
 - 📄 [Laporan](doc/KacauMania.pdf)
-- 🎥 Video YouTube: https://youtu.be/dYMyWuAcMOE
+- 🎥 Video YouTube: https://youtu.be/iAU6WSKW0zE
