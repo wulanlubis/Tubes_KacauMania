@@ -1,5 +1,5 @@
 # Tubes_KacauMania
-> Tugas Besar IF25-21013 Strategi Algoritma — Semester Genap 2026/2027
+> Tugas Besar IF25-21013 Strategi Algoritma RD
 > **Pemanfaatan Algoritma Greedy dalam pembuatan bot permainan Robocode Tank Royale**
 
 ---
