@@ -1,0 +1,9 @@
+{
+  "name": "Gacor",
+  "version": "1.0",
+  "authors": ["KACAU MANIA"],
+  "description": "Sniper",
+  "countryCodes": ["id"],
+  "platform": ".Net",
+  "programmingLang": "C#"
+}

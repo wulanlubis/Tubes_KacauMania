@@ -1,0 +1,9 @@
+{
+  "name": "Kacau",
+  "version": "1.0",
+  "authors": ["KACAU MANIA"],
+  "description": "Rush/Agressive",
+  "countryCodes": ["id"],
+  "platform": ".Net",
+  "programmingLang": "C#"
+}

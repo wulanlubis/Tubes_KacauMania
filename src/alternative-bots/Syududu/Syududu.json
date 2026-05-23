@@ -1,0 +1,9 @@
+{
+  "name": "Syududu",
+  "version": "1.0",
+  "authors": ["KACAU MANIA"],
+  "description": "Greedy",
+  "countryCodes": ["id"],
+  "platform": ".Net",
+  "programmingLang": "C#"
+}
