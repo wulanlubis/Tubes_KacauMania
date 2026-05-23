@@ -1,5 +1,5 @@
 # Tubes_KacauMania
-> Tugas Besar IF25-21013 Strategi Algoritma RD
+> Tugas Besar IF25-21013 Strategi Algoritma RD <br>
 > **Pemanfaatan Algoritma Greedy dalam pembuatan bot permainan Robocode Tank Royale**
 
 ---
